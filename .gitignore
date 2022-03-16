@@ -1,0 +1,6 @@
+*.xlsx
+*.docx
+results.txt
+timings.png
+*.pdf
+__pycache__
